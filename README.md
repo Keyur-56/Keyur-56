@@ -1,8 +1,3 @@
-<!-- Header GIF -->
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjV1bXNtbjA1ZjQ2cDljcHF5ZWx3b3c2a3U4ZTZlZjFjbzA2N2l0NSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/LMt9638dO8dftAjtco/giphy.gif" width="500"/>
-</p>
-
 # 👋 Hello, I'm Keyur Malaviya !!!
 
 ### Full Stack Devloper  
@@ -35,9 +30,22 @@ I'm a passionate web developer specializing in creating beautiful, functional, a
 ![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?style=flat&logo=webpack&logoColor=black)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
-<!-- Footer GIF -->
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="450"/>
-</p>
+## 🚀 Featured Projects
+
+### 🔹 Portfolio Website
+🛠️ **Next.js + Tailwind CSS**  
+✔ Responsive design  
+✔ SEO optimized  
+✔ Modern UI  
+
+### 🔹 Online Learning Platform
+🛠️ **Next.js, Tailwind CSS, MongoDB, Express, React, Node**  
+✔ User Friendly  
+✔ Customized course  
+
+### 🔹 2D Game - Ebon Adventure
+🛠️ **C#**  
+✔ Adventure Game  
+✔ Handmade Artwork
 
 ⭐ **If you like my work, don't forget to star some repositories!** ⭐
