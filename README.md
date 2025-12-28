@@ -30,6 +30,9 @@ I'm a passionate web developer specializing in creating beautiful, functional, a
 ![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?style=flat&logo=webpack&logoColor=black)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
-
+<!-- Footer GIF -->
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="450"/>
+</p>
 
 ⭐ **If you like my work, don't forget to star some repositories!** ⭐
