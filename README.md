@@ -1,8 +1,8 @@
 # 👋 Hello, I'm Keyur Malaviya !!!
 
-### Frontend Developer | Full Stack Enthusiast 
+### Full Stack Devloper  
 
-I'm a passionate web developer specializing in creating beautiful, functional, and responsive web applications. I love turning complex problems into simple, intuitive solutions.
+I'm a passionate web developer specializing in creating beautiful, functional, and responsive web applications. I love turning complex problems into simple, intuitive solutions. 
 
 ## 🛠️ Technologies & Tools
 
