@@ -1,3 +1,8 @@
+<!-- Header GIF -->
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjV1bXNtbjA1ZjQ2cDljcHF5ZWx3b3c2a3U4ZTZlZjFjbzA2N2l0NSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/LMt9638dO8dftAjtco/giphy.gif" width="500"/>
+</p>
+
 # 👋 Hello, I'm Keyur Malaviya !!!
 
 ### Full Stack Devloper  
